@@ -65,17 +65,14 @@ td {
 th,
 td {
   padding: 10px;
-  border: 1px solid rgba(180, 181, 165, 0.9);
-
-  /* border: 1px solid #ddd; */
   text-align: left;
+  background-color: #7ea7b5;
+  color: #022b32;
+  font-size: 15px;
 }
 
 th {
-  /* background-color: #026144; */
-  background-color: #FF3CAC;
-  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
-  
+  background-color: #101e38c9;
   color: white;
 }
 
