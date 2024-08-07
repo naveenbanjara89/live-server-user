@@ -15,7 +15,7 @@ const io = socketIO(server);
 connectDB();
 app.use(
   cors({
-    origin: ["https://live-server-user-registration.onrender.com","http://localhost:4000/api/users"]
+    origin: ["https://live-server-user.onrender.com","http://localhost:4000/api/users"]
   })
 );
 
